@@ -1,4 +1,4 @@
-Prints de resultados encontram-se em README.md
+Prints de resultados encontram-se em RESULT.md
 
 Arquivos executáveis encontram-se em build.
 
