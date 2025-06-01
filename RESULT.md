@@ -17,3 +17,7 @@ M3:
 M4: (Modelo está girando, então representação em print mostra apenas momento estático)
 
 ![alt text](image-4.png)
+
+Atividade Vivencial 2: (1: Controla luz principal - key light; 2: Controla luz de preenchimento - fill light; 3: Controla luz de fundo - back light; ESC: Fecha aplicação)
+
+![alt text](image-5.png)
