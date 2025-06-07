@@ -33,3 +33,16 @@ Controles do M5:
     Scroll do mouse: Zoom
     Teclas 1, 2, 3: Ligar/desligar luzes (1: Key light; 2: Fill light; 3: Back light)
     ESC: Sair 
+
+M6:
+
+![alt text](image-7.png)
+
+Controles do M6:
+
+    Teclas 1, 2, 3: Selecionar um objeto
+    WASD/IJ: Posicionar o objeto
+    P: Adicionar a posição atual à trajetória
+    M: Iniciar o movimento ao longo da trajetória
+    T: Mostrar/esconder as trajetórias
+    C: Limpar as trajetórias
